@@ -11,15 +11,13 @@
 
 <br/>
 
-- 👋 Hi, I’m **[@tonoy2k24-source](https://github.com/tonoy2k24-source)**
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **Docker, CI/CD Pipelines, and Cloud Deployment**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Profile **[tonoy2k24-source](https://github.com/tonoy2k24-source)**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/rafiul-bari-tonoy-025768383/)**
-- 📫 Feel free to reach me out **[Email](mailto:tonoy2k24@gmail.com)**
-  
+- 🚀 Currently focused on **JavaScript, TypeScript, React.js and Next.js**
+- 🧠 Learning how to build scalable and maintainable applications
+- 🎨 Interested in **Frontend Development & UI/UX**
+- 🔧 Exploring modern development tools and workflows
+- 🌱 Continuously improving my problem-solving and programming skills
+- 💡 I enjoy turning ideas into real-world web applications
+- 🤝 Open to learning, collaboration and interesting projects
 <br/>
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
